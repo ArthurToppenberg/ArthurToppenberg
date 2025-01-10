@@ -1,4 +1,4 @@
-## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/a4bc17de-17ce-406c-849a-4ed9487afaae.svg)](https://wakatime.com/@a4bc17de-17ce-406c-849a-4ed9487afaae)
 
 <!--
 **ArthurToppenberg/ArthurToppenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
